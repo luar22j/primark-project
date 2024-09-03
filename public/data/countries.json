@@ -1,0 +1,38 @@
+[
+  {
+    "name": "United Kingdom",
+    "currency": "£",
+    "flag": "uk.jpg",
+    "language": "en"
+  },
+  {
+    "name": "Deutschland",
+    "currency": "€",
+    "flag": "de.jpg",
+    "language": "de"
+  },
+  {
+    "name": "España",
+    "currency": "€",
+    "flag": "es.jpg",
+    "language": "es"
+  },
+  {
+    "name": "France",
+    "currency": "€",
+    "flag": "fr.jpg",
+    "language": "fr"
+  },
+  {
+    "name": "Italia",
+    "currency": "€",
+    "flag": "it.jpg",
+    "language": "it"
+  },
+  {
+    "name": "United States",
+    "currency": "$",
+    "flag": "us.jpg",
+    "language": "en"
+  }
+]

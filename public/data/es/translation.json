@@ -1,0 +1,446 @@
+{
+  "home": {
+    "title": "Moda, hogar y belleza | Primark"
+  },
+  "log": {
+    "back": "Atrás",
+    "signIn": "Iniciar Sesión",
+    "signUp": "Registrarse"
+  },
+  "signIn": {
+    "title": "Iniciar Sesión | Primark",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "credentials": "Recordar Credenciales",
+    "forgotPassword": "¿Has olvidado la contraseña?",
+    "description": "Al darte de alta, confirmas que has leído nuestra",
+    "description02": "y que aceptas nuestros",
+    "privacity": "Política de privacidad",
+    "terms": "Términos y condiciones"
+  },
+  "signUp": {
+    "title": "Registrarse | Primark",
+    "email": "Correo Electrónico",
+    "name": "Nombre",
+    "surname": "Apellidos",
+    "day": "Día",
+    "month": "Mes",
+    "year": "Año",
+    "createPassword": "Crear Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "birthDay": "Fecha de nacimiento",
+    "conditions": "Debes tener, al menos, 16 años para registrarte",
+    "ads": "Regístrate para recibir comunicaciones publicitarias personalizadas de Primark por correo electrónico, Internet y las redes sociales. Puedes cancelar tu suscripción en cualquier momento.",
+    "description": "Nuestro",
+    "description02": "explica por qué y cómo usamos sus datos.",
+    "description03": "Al crear una cuenta, confirma que ha leído nuestro",
+    "description04": "y acepta nuestros",
+    "privacity": "aviso de privacidad",
+    "terms": "términos de uso"
+  },
+
+  "input": {
+    "search": "Buscar Tiendas"
+  },
+
+  "location": {
+    "title": "Localizador de tiendas Primark | Primark",
+    "text": "Código postal o ciudad:",
+    "link": "Usar mi ubicación",
+    "noNearbyStores": "No hay tiendas cercanas disponibles",
+    "notSupported": "La geolocalización no está disponible",
+    "locationError": "Ha ocurrido un error"
+  },
+
+  "shops": {
+    "madrid": {
+      "osm_id": 1,
+      "display_name": "Madrid, España",
+      "lat": 40.416775,
+      "lon": -3.70379,
+      "popup": "Madrid",
+      "description": "Calle Gran Vía 32, Calle Gran Vía, 32 Madrid 28013"
+    },
+    "barcelona": {
+      "osm_id": 2,
+      "display_name": "Barcelona, España",
+      "lat": 41.385064,
+      "lon": 2.173404,
+      "popup": "Barcelona - Plaza Catalunya",
+      "description": "Plaça de Catalunya, 23, Plaça de Catalunya, 23 Barcelona 08002"
+    },
+    "sevilla": {
+      "osm_id": 3,
+      "display_name": "Sevilla, España",
+      "lat": 37.389092,
+      "lon": -5.984459,
+      "popup": "Sevilla - Torre Sevilla",
+      "description": "Centro Comercial Torre Sevilla, Calle Gonzalo Jiménez de Quesada, 2 Sevilla 41092"
+    },
+    "valencia": {
+      "osm_id": 4,
+      "display_name": "Valencia, España",
+      "lat": 39.469907,
+      "lon": -0.376288,
+      "popup": "Valencia - Bonaire",
+      "description": "Centro Comercial Bonaire, Carretera A3 km 345. Local L-654/046 Valencia 46960"
+    },
+    "bilbao": {
+      "osm_id": 5,
+      "display_name": "Bilbao, España",
+      "lat": 43.263013,
+      "lon": -2.934985,
+      "popup": "Bilbao - Gran Via",
+      "description": "Gran vía de Don Diego López de Haro, 1, Gran Vía de Don Diego López de Haro, 1 Bilbao 48001"
+    }
+  },
+
+  "header": {
+    "locator": "Localizador de tiendas",
+    "web": "Web corporativa",
+    "clothes": "Disfruta de tu ropa durante más tiempo",
+    "inspiration": "Inspiración",
+    "subscribe": "Suscríbete!",
+    "primania": "#Primania",
+    "gift-card": "Tarjeta regalo",
+    "search": "Buscar"
+  },
+
+  "search": {
+    "popular": "Popular",
+    "locator": "Localizador de tiendas",
+    "help": "¿Necesitas ayuda? Visita a atención al cliente",
+    "clear": "Borrar",
+    "search": "Buscar..."
+  },
+
+  "menu": {
+    "account": "Cuenta",
+    "locator": "Localizador de tiendas",
+    "web": "Web corporativa",
+    "clothes": "Disfruta de tu ropa durante más tiempo",
+    "inspiration": "Inspiración",
+    "subscribe": "Suscríbete",
+    "primania": "#Primania",
+    "gift-card": "Tarjeta regalo"
+  },
+
+  "nav": {
+    "women": {
+      "name": "Mujer",
+      "link": "women.jpg",
+      "url": "women"
+    },
+    "kids": {
+      "name": "Niños y niñas",
+      "link": "kids.jpg",
+      "url": "kids"
+    },
+    "baby": {
+      "name": "Bebé",
+      "link": "baby.jpg",
+      "url": "baby"
+    },
+    "school": {
+      "name": "Vuelta al cole",
+      "link": "school.jpg",
+      "url": "school"
+    },
+    "home": {
+      "name": "Hogar",
+      "link": "home.jpg",
+      "url": "home"
+    },
+    "men": {
+      "name": "Hombre",
+      "link": "men.jpg",
+      "url": "men"
+    },
+    "collaborations": {
+      "name": "Colaboraciones",
+      "link": "mobile.jpg",
+      "url": "collaborations"
+    },
+    "beauty": {
+      "name": "Belleza",
+      "link": "beauty.jpg",
+      "url": "beauty"
+    }
+  },
+
+  "section": {
+    "title": "Somos Primark",
+    "text": "En Primark hay algo para todos"
+  },
+
+  "img": {
+    "women": {
+      "name": "Mujer",
+      "img": "women.jpg",
+      "url": "women"
+    },
+    "kids": {
+      "name": "Niños y niñas",
+      "img": "kids.jpg",
+      "url": "kids"
+    },
+    "baby": {
+      "name": "Bebé",
+      "img": "baby.jpg",
+      "url": "baby"
+    },
+    "home": {
+      "name": "Hogar",
+      "img": "home.jpg",
+      "url": "home"
+    },
+    "men": {
+      "name": "Hombre",
+      "img": "men.jpg",
+      "url": "men"
+    },
+    "beauty": {
+      "name": "Belleza",
+      "img": "beauty.jpg",
+      "url": "beauty"
+    }
+  },
+
+  "footer": {
+    "help": {
+      "title": "AYUDA",
+      "links": [
+        "Ponte en contacto con nosotros",
+        "Ayuda y preguntas frecuentes",
+        "Speak Up - Equipo Primark",
+        "Tell Us - Trabajadores y trabajadoras Externos & Terceros"
+      ]
+    },
+    "info": {
+      "title": "INFORMACIÓN ÚTIL",
+      "links": [
+        "Condiciones de uso",
+        "Condiciones de la galería Primania",
+        "Aviso de privacidad",
+        "Política de cookies",
+        "Franquicias falsas",
+        "Encuesta Tell Primark",
+        "Estado de Información no Financiera 2021"
+      ]
+    },
+    "company": {
+      "title": "PRIMARK DESDE DENTRO",
+      "links": [
+        "Quienes somos",
+        "Trabajar en Primark",
+        "Proveedores",
+        "Cruelty Free International"
+      ]
+    },
+    "web": {
+      "title": "WEB CORPORATIVA",
+      "links": ["Nuestra Historia", "Ética y sostenibilidad", "La Redacción"]
+    }
+  },
+
+  "countries": {
+    "title": "Regiones",
+    "text": "Cambiar el país o la región desde la que compras puede afectar a factores como el precio, las opciones de entrega, las preferencias de idioma y la disponibilidad de los productos."
+  },
+
+  "women": {
+    "title": "Moda Mujer | Primark"
+  },
+  "women-nav": {
+    "clothes": {
+      "name": "Ropa",
+      "url": "clothes"
+    },
+    "pajamas": {
+      "name": "Ropa para dormir y lencería",
+      "url": "pajamas"
+    },
+    "footwear": {
+      "name": "Calzado",
+      "url": "footwear"
+    },
+    "accessories": {
+      "name": "Accesorios",
+      "url": "accessories"
+    },
+    "collections": {
+      "name": "Colecciones y colaboraciones",
+      "url": "collections"
+    }
+  },
+
+  "women-section": {
+    "title": "Mujer",
+    "text": "Tenemos el armario de entretiempo que necesitas",
+    "discover": "Descubre"
+  },
+
+  "women-img": {
+    "pajamas": { "name": "Gamas de ropa de noche", "url": "pajamas.jpg" },
+    "sweetshirt": {
+      "name": "Sudaderas con y sin capucha",
+      "url": "sweetshirt.jpg"
+    },
+    "bags": { "name": "Bolsos y monederos", "url": "bags.jpg" },
+    "denim": { "name": "Tejido vaquero", "url": "denim.jpg" },
+    "footwear": { "name": "Calzado", "url": "footwear.jpg" },
+    "shortPants": { "name": "Pantalones cortos", "url": "shortPants.jpg" },
+    "shirts": { "name": "Tops y camisetas", "url": "shirts.jpg" },
+    "dress": { "name": "Vestidos", "url": "dress.jpg" }
+  },
+  "women-section2": {
+    "currency": "€",
+    "color": "color",
+    "phrase": "Ideal para hacer ejercicio Y gestiones varias",
+    "title": "Moda deportiva tendencia",
+    "button": "Descubre nuestras prendas deportivas",
+    "1": {
+      "name": "Leggings deportivos muy suaves",
+      "url": "1.jpg",
+      "price": "13,00",
+      "color": "1"
+    },
+    "2": {
+      "name": "Sujetador deportivo sin costuras",
+      "url": "2.jpg",
+      "price": "7,00",
+      "color": "2"
+    },
+    "3": {
+      "name": "Pantalones cortos menstruales de deporte",
+      "url": "3.jpg",
+      "price": "10,00",
+      "color": "1"
+    },
+    "4": {
+      "name": "Sudadera deportiva de cuello redondo",
+      "url": "4.jpg",
+      "price": "7,00",
+      "color": "2"
+    },
+    "5": {
+      "name": "Camiseta deportiva Active Performance",
+      "url": "5.jpg",
+      "price": "6,00",
+      "color": "1"
+    },
+    "6": {
+      "name": "Leggings largos de alto rendimiento sin costuras",
+      "url": "6.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "7": {
+      "name": "Camiseta deportiva de cuello redondo",
+      "url": "7.jpg",
+      "price": "4,50",
+      "color": "1"
+    },
+    "8": {
+      "name": "Leggings deportivos de yoga acampanados",
+      "url": "8.jpg",
+      "price": "14,00",
+      "color": "2"
+    },
+    "9": {
+      "name": "Top corto deportivo de tirantes muy suave",
+      "url": "9.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "10": {
+      "name": "Leggings deportivos Activate",
+      "url": "10.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "11": {
+      "name": "Sudadera deportiva de cuello redondo",
+      "url": "11.jpg",
+      "price": "7,00",
+      "color": "2"
+    },
+    "12": {
+      "name": "Chaqueta deportiva con cremallera sin costuras",
+      "url": "12.jpg",
+      "price": "14,00",
+      "color": "1"
+    },
+    "13": {
+      "name": "Leggings deportivos de yoga acampanados",
+      "url": "13.jpg",
+      "price": "14,00",
+      "color": "2"
+    },
+    "14": {
+      "name": "Camiseta deportiva de manga larga sin costuras",
+      "url": "14.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "15": {
+      "name": "Leggins moldeadores deportivos de talle alto",
+      "url": "15.jpg",
+      "price": "12,00",
+      "color": "1"
+    },
+    "16": {
+      "name": "Pantalones cortos de talle alto sin costuras",
+      "url": "16.jpg",
+      "price": "5,50",
+      "color": "1"
+    }
+  },
+  "jeans-collection": {
+    "title": "Renueva tu colección de vaqueros",
+    "phrase": "Vaqueros que te encantarán a precio increíbles",
+    "link": "Descubre nuestros vaqueros"
+  },
+  "miss-nothing": {
+    "title": "¡No te pierdas nada!",
+    "phrase": "Suscríbete para estar al tanto de las últimas tendencias, lanzamientos de productos y las mejores colaboraciones",
+    "link": "Suscribirme"
+  },
+  "fashion-channel": {
+    "title": {
+      "title": "Canal de moda",
+      "phrase": "Últimas novedades",
+      "link": "Necesitio inspiración"
+    },
+    "links": {
+      "col1": {
+        "first": {
+          "title": "Básicos sotisficados",
+          "text": "Prendas exepcionales de referencia",
+          "by": "por Tamára Tavares",
+          "img": "1.jpg"
+        },
+        "second": {
+          "title": "Estilo chic para el campus",
+          "text": "Renueva tu armario con nuevos diseños de estilo «preppy»",
+          "by": "por Tamára Tavares",
+          "img": "2.jpg"
+        }
+      },
+      "col2": {
+        "first": {
+          "title": "Prenda estrella: el jersey de punto",
+          "text": "Nuestra prenda de punto más vendida con la que crear tu propio estilo",
+          "by": "por Kerry Martn",
+          "img": "3.jpg"
+        },
+        "second": {
+          "title": "Kappa X Primark",
+          "text": "Para un estilo deportivo y cotidiano",
+          "by": "por Sydney Lasek",
+          "img": "4.jpg"
+        }
+      }
+    }
+  }
+}

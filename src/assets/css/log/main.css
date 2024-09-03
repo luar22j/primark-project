@@ -1,0 +1,143 @@
+.logo {
+  text-decoration: none;
+  overflow: hidden;
+  display: block;
+  position: relative;
+  padding-bottom: 0.1em;
+}
+
+.logo::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 0.05em;
+  background-color: #03a4d8;
+  opacity: 0;
+  transition: opacity 300ms, transform 300ms;
+}
+
+.logo::after {
+  transform: scale(0);
+  transform-origin: center;
+}
+
+.logo:hover::after,
+.logo:focus::after {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.a-animation {
+  color: inherit;
+  text-decoration: underline 0.05em rgba(255, 255, 255, 0);
+  text-underline-offset: 2.5px;
+  transition: text-decoration-color 150ms;
+}
+
+.a-animation:hover {
+  text-decoration-color: black;
+}
+
+.checkbox-wrapper-30 {
+  height: 37px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.checkbox-wrapper-30 .checkbox {
+  --bg: transparent;
+  --brdr: #b8b8b8;
+  --brdr-actv: #03a4d8;
+  --brdr-hovr: #b8b8b8;
+  --dur: calc((var(--size, 2) / 2) * 0.6s);
+  display: inline-block;
+  width: calc(var(--size, 1.4) * 22px);
+  position: relative;
+}
+.checkbox-wrapper-30 .checkbox:after {
+  content: "";
+  width: 100%;
+  padding-top: 100%;
+  display: block;
+}
+.checkbox-wrapper-30 .checkbox > * {
+  position: absolute;
+}
+.checkbox-wrapper-30 .checkbox input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+  cursor: pointer;
+  background-color: var(--bg);
+  border-radius: 5px;
+  border: 2px solid;
+  color: var(--newBrdrClr, var(--brdr));
+  outline: none;
+  margin: 0;
+  padding: 0;
+  transition: all calc(var(--dur) / 3) linear;
+}
+.checkbox-wrapper-30 .checkbox input:hover,
+.checkbox-wrapper-30 .checkbox input:checked {
+  --newBrdr: calc(var(--size, 1) * 2);
+}
+.checkbox-wrapper-30 .checkbox input:hover {
+  --newBrdrClr: var(--brdr-hovr);
+}
+.checkbox-wrapper-30 .checkbox input:checked {
+  --newBrdrClr: var(--brdr-actv);
+  transition-delay: calc(var(--dur) / 1.3);
+}
+.checkbox-wrapper-30 .checkbox input:checked + svg {
+  --dashArray: 16 93;
+  --dashOffset: 109;
+}
+.checkbox-wrapper-30 .checkbox svg {
+  fill: none;
+  left: 0;
+  pointer-events: none;
+  stroke: var(--stroke, var(--border-active));
+  stroke-dasharray: var(--dashArray, 93);
+  stroke-dashoffset: var(--dashOffset, 94);
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2px;
+  top: 0;
+  transition: stroke-dasharray var(--dur), stroke-dashoffset var(--dur);
+}
+.checkbox-wrapper-30 .checkbox svg,
+.checkbox-wrapper-30 .checkbox input {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.inputs:focus .title {
+  margin-bottom: 0px !important;
+}
+
+.opacity-animation {
+  animation: opacity 300ms linear;
+}
+
+@keyframes opacity {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

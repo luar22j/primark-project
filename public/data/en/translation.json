@@ -1,0 +1,229 @@
+{
+  "home": {
+    "title": "Fashion, Home & Beauty | Primark"
+  },
+  "log": {
+    "back": "Back",
+    "signIn": "Sign In",
+    "signUp": "Sign Up"
+  },
+  "signIn": {
+    "title": "Sign In | Primark",
+    "email": "Email Address",
+    "password": "Password",
+    "credentials": "Remember Credentials",
+    "forgotPassword": "Forgot Password?",
+    "description": "By signing up, you confirm that you have read our",
+    "description02": "and agree to our",
+    "privacity": "Privacy Policy",
+    "terms": "Terms and Conditions"
+  },
+  "signUp": {
+    "title": "Sign Up | Primark",
+    "email": "Email Address",
+    "name": "First Name",
+    "surname": "Last Name",
+    "day": "Day",
+    "month": "Month",
+    "year": "Year",
+    "createPassword": "Create Password",
+    "confirmPassword": "Confirm Password",
+    "birthDay": "Date of Birth",
+    "conditions": "You must be at least 16 years old to register",
+    "ads": "Sign up to receive personalized advertising communications from Primark via email, the internet, and social media. You can unsubscribe at any time.",
+    "description": "Our",
+    "description02": "explains why and how we use your data.",
+    "description03": "By creating an account, you confirm that you have read our",
+    "description04": "and agree to our",
+    "privacity": "privacy notice",
+    "terms": "terms of use"
+  },
+
+  "input": {
+    "search": "Search Stores"
+  },
+
+  "location": {
+    "title": "Primark Store Locator | Primark",
+    "text": "Postal code or city:",
+    "link": "Use my location",
+    "noNearbyStores": "No nearby stores available",
+    "notSupported": "Geolocation is not available",
+    "locationError": "An error has occurred"
+  },
+
+  "shops": {
+    "madrid": {
+      "osm_id": 1,
+      "display_name": "Madrid, Spain",
+      "lat": 40.416775,
+      "lon": -3.70379,
+      "popup": "Madrid",
+      "description": "Calle Gran Vía 32, Calle Gran Vía, 32 Madrid 28013"
+    },
+    "barcelona": {
+      "osm_id": 2,
+      "display_name": "Barcelona, Spain",
+      "lat": 41.385064,
+      "lon": 2.173404,
+      "popup": "Barcelona - Plaza Catalunya",
+      "description": "Plaça de Catalunya, 23, Plaça de Catalunya, 23 Barcelona 08002"
+    },
+    "sevilla": {
+      "osm_id": 3,
+      "display_name": "Seville, Spain",
+      "lat": 37.389092,
+      "lon": -5.984459,
+      "popup": "Seville - Torre Sevilla",
+      "description": "Centro Comercial Torre Sevilla, Calle Gonzalo Jiménez de Quesada, 2 Sevilla 41092"
+    },
+    "valencia": {
+      "osm_id": 4,
+      "display_name": "Valencia, Spain",
+      "lat": 39.469907,
+      "lon": -0.376288,
+      "popup": "Valencia - Bonaire",
+      "description": "Centro Comercial Bonaire, Carretera A3 km 345. Local L-654/046 Valencia 46960"
+    },
+    "bilbao": {
+      "osm_id": 5,
+      "display_name": "Bilbao, Spain",
+      "lat": 43.263013,
+      "lon": -2.934985,
+      "popup": "Bilbao - Gran Via",
+      "description": "Gran Vía de Don Diego López de Haro, 1, Gran Vía de Don Diego López de Haro, 1 Bilbao 48001"
+    }
+  },
+
+  "header": {
+    "locator": "Store Locator",
+    "web": "Corporate Website",
+    "clothes": "Enjoy Your Clothes Longer",
+    "inspiration": "Inspiration",
+    "subscribe": "Subscribe!",
+    "primania": "#Primania",
+    "gift-card": "Gift Card",
+    "search": "Search"
+  },
+  "search": {
+    "popular": "Popular",
+    "locator": "Store Locator",
+    "help": "Need help? Visit Customer Service",
+    "clear": "Clear",
+    "search": "Search..."
+  },
+  "menu": {
+    "account": "Account",
+    "locator": "Store Locator",
+    "web": "Corporate Website",
+    "clothes": "Enjoy Your Clothes Longer",
+    "inspiration": "Inspiration",
+    "subscribe": "Subscribe",
+    "primania": "#Primania",
+    "gift-card": "Gift Card"
+  },
+  "nav": {
+    "holiday": {
+      "name": "Holiday Store",
+      "url": "mobileHoliday.jpg"
+    },
+    "women": {
+      "name": "Women",
+      "url": "womensLandingTile.jpg"
+    },
+    "kids": {
+      "name": "Kids",
+      "url": "kidsLandingTile02.jpg"
+    },
+    "baby": {
+      "name": "Baby",
+      "url": "babyLanding.jpg"
+    },
+    "home": {
+      "name": "Home",
+      "url": "homeLandingTile.jpg"
+    },
+    "men": {
+      "name": "Men",
+      "url": "menLandingTile02.jpg"
+    },
+    "collaborations": {
+      "name": "Collaborations",
+      "url": "mobile.jpg"
+    },
+    "beauty": {
+      "name": "Beauty",
+      "url": "beautyLanding.jpg"
+    }
+  },
+  "section": {
+    "title": "We Are Primark",
+    "text": "At Primark, there's something for everyone"
+  },
+  "img": {
+    "women": {
+      "name": "Women",
+      "url": "womens.png"
+    },
+    "kids": {
+      "name": "Kids",
+      "url": "kids.png"
+    },
+    "baby": {
+      "name": "Baby",
+      "url": "baby.png"
+    },
+    "home": {
+      "name": "Home",
+      "url": "home.png"
+    },
+    "men": {
+      "name": "Men",
+      "url": "men.png"
+    },
+    "beauty": {
+      "name": "Beauty",
+      "url": "beauty.png"
+    }
+  },
+  "footer": {
+    "help": {
+      "title": "HELP",
+      "links": [
+        "Contact Us",
+        "Help & FAQs",
+        "Speak Up - Primark Team",
+        "Tell Us - External Workers & Third Parties"
+      ]
+    },
+    "info": {
+      "title": "USEFUL INFORMATION",
+      "links": [
+        "Terms of Use",
+        "Primania Gallery Terms",
+        "Privacy Notice",
+        "Cookie Policy",
+        "Fake Franchises",
+        "Tell Primark Survey",
+        "Non-Financial Information Statement 2021"
+      ]
+    },
+    "company": {
+      "title": "PRIMARK FROM WITHIN",
+      "links": [
+        "About Us",
+        "Working at Primark",
+        "Suppliers",
+        "Cruelty Free International"
+      ]
+    },
+    "web": {
+      "title": "CORPORATE WEBSITE",
+      "links": ["Our History", "Ethics & Sustainability", "The Editorial Team"]
+    }
+  },
+  "countries": {
+    "title": "Regions",
+    "text": "Changing the country or region you shop from may affect factors such as pricing, delivery options, language preferences, and product availability."
+  }
+}

@@ -1,0 +1,38 @@
+.list {
+  transition: transform 200ms;
+  margin-left: 10px;
+  opacity: 0;
+}
+
+.list:nth-child(1) {
+  animation: opacity-animation 1s forwards;
+  animation-delay: 0s;
+}
+.list:nth-child(2) {
+  animation: opacity-animation 1s forwards;
+  animation-delay: 0.2s;
+}
+.list:nth-child(3) {
+  animation: opacity-animation 1s forwards;
+  animation-delay: 0.4s;
+}
+.list:nth-child(4) {
+  animation: opacity-animation 1s forwards;
+  animation-delay: 0.6s;
+}
+.list:nth-child(5) {
+  animation: opacity-animation 1s forwards;
+  animation-delay: 0.8s;
+}
+.list:nth-child(6) {
+  animation: opacity-animation 1s forwards;
+  animation-delay: 1s;
+}
+@keyframes opacity-animation {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

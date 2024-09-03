@@ -1,0 +1,233 @@
+{
+  "home": {
+    "title": "Mode, Maison & Beauté | Primark"
+  },
+  "log": {
+    "back": "Retour",
+    "signIn": "Se Connecter",
+    "signUp": "S'inscrire"
+  },
+  "signIn": {
+    "title": "Se Connecter | Primark",
+    "email": "Adresse E-mail",
+    "password": "Mot de Passe",
+    "credentials": "Se Souvenir des Identifiants",
+    "forgotPassword": "Mot de passe oublié ?",
+    "description": "En vous inscrivant, vous confirmez avoir lu notre",
+    "description02": "et accepter nos",
+    "privacity": "Politique de Confidentialité",
+    "terms": "Conditions Générales"
+  },
+  "signUp": {
+    "title": "S'inscrire | Primark",
+    "email": "Adresse E-mail",
+    "name": "Prénom",
+    "surname": "Nom",
+    "day": "Jour",
+    "month": "Mois",
+    "year": "Année",
+    "createPassword": "Créer un Mot de Passe",
+    "confirmPassword": "Confirmer le Mot de Passe",
+    "birthDay": "Date de Naissance",
+    "conditions": "Vous devez avoir au moins 16 ans pour vous inscrire",
+    "ads": "Inscrivez-vous pour recevoir des communications publicitaires personnalisées de Primark par e-mail, Internet et réseaux sociaux. Vous pouvez vous désabonner à tout moment.",
+    "description": "Notre",
+    "description02": "explique pourquoi et comment nous utilisons vos données.",
+    "description03": "En créant un compte, vous confirmez avoir lu notre",
+    "description04": "et accepter nos",
+    "privacity": "avis de confidentialité",
+    "terms": "conditions d'utilisation"
+  },
+
+  "input": {
+    "search": "Rechercher des Magasins"
+  },
+
+  "location": {
+    "title": "Localisateur de Magasins Primark | Primark",
+    "text": "Code postal ou ville:",
+    "link": "Utiliser ma position",
+    "noNearbyStores": "Aucun magasin à proximité disponible",
+    "notSupported": "La géolocalisation n'est pas disponible",
+    "locationError": "Une erreur s'est produite"
+  },
+
+  "shops": {
+    "madrid": {
+      "osm_id": 1,
+      "display_name": "Madrid, Espagne",
+      "lat": 40.416775,
+      "lon": -3.70379,
+      "popup": "Madrid",
+      "description": "Calle Gran Vía 32, Calle Gran Vía, 32 Madrid 28013"
+    },
+    "barcelona": {
+      "osm_id": 2,
+      "display_name": "Barcelone, Espagne",
+      "lat": 41.385064,
+      "lon": 2.173404,
+      "popup": "Barcelone - Plaza Catalunya",
+      "description": "Plaça de Catalunya, 23, Plaça de Catalunya, 23 Barcelone 08002"
+    },
+    "sevilla": {
+      "osm_id": 3,
+      "display_name": "Séville, Espagne",
+      "lat": 37.389092,
+      "lon": -5.984459,
+      "popup": "Séville - Torre Sevilla",
+      "description": "Centro Comercial Torre Sevilla, Calle Gonzalo Jiménez de Quesada, 2 Séville 41092"
+    },
+    "valencia": {
+      "osm_id": 4,
+      "display_name": "Valence, Espagne",
+      "lat": 39.469907,
+      "lon": -0.376288,
+      "popup": "Valence - Bonaire",
+      "description": "Centro Comercial Bonaire, Carretera A3 km 345. Local L-654/046 Valence 46960"
+    },
+    "bilbao": {
+      "osm_id": 5,
+      "display_name": "Bilbao, Espagne",
+      "lat": 43.263013,
+      "lon": -2.934985,
+      "popup": "Bilbao - Gran Via",
+      "description": "Gran Vía de Don Diego López de Haro, 1, Gran Vía de Don Diego López de Haro, 1 Bilbao 48001"
+    }
+  },
+
+  "header": {
+    "locator": "Localisateur de Magasins",
+    "web": "Site Web de l'Entreprise",
+    "clothes": "Profitez de Vos Vêtements Plus Longtemps",
+    "inspiration": "Inspiration",
+    "subscribe": "Abonnez-vous !",
+    "primania": "#Primania",
+    "gift-card": "Carte Cadeau",
+    "search": "Rechercher"
+  },
+  "search": {
+    "popular": "Populaire",
+    "locator": "Localisateur de Magasins",
+    "help": "Besoin d'aide ? Visitez le Service Client",
+    "clear": "Effacer",
+    "search": "Chercher..."
+  },
+  "menu": {
+    "account": "Compte",
+    "locator": "Localisateur de Magasins",
+    "web": "Site Web de l'Entreprise",
+    "clothes": "Profitez de Vos Vêtements Plus Longtemps",
+    "inspiration": "Inspiration",
+    "subscribe": "Abonnez-vous",
+    "primania": "#Primania",
+    "gift-card": "Carte Cadeau"
+  },
+  "nav": {
+    "holiday": {
+      "name": "Magasin de Vacances",
+      "url": "mobileHoliday.jpg"
+    },
+    "women": {
+      "name": "Femmes",
+      "url": "womensLandingTile.jpg"
+    },
+    "kids": {
+      "name": "Enfants",
+      "url": "kidsLandingTile02.jpg"
+    },
+    "baby": {
+      "name": "Bébé",
+      "url": "babyLanding.jpg"
+    },
+    "home": {
+      "name": "Maison",
+      "url": "homeLandingTile.jpg"
+    },
+    "men": {
+      "name": "Hommes",
+      "url": "menLandingTile02.jpg"
+    },
+    "collaborations": {
+      "name": "Collaborations",
+      "url": "mobile.jpg"
+    },
+    "beauty": {
+      "name": "Beauté",
+      "url": "beautyLanding.jpg"
+    }
+  },
+  "section": {
+    "title": "Nous Sommes Primark",
+    "text": "Chez Primark, il y a quelque chose pour tout le monde"
+  },
+  "img": {
+    "women": {
+      "name": "Femmes",
+      "url": "womens.png"
+    },
+    "kids": {
+      "name": "Enfants",
+      "url": "kids.png"
+    },
+    "baby": {
+      "name": "Bébé",
+      "url": "baby.png"
+    },
+    "home": {
+      "name": "Maison",
+      "url": "home.png"
+    },
+    "men": {
+      "name": "Hommes",
+      "url": "men.png"
+    },
+    "beauty": {
+      "name": "Beauté",
+      "url": "beauty.png"
+    }
+  },
+  "footer": {
+    "help": {
+      "title": "AIDE",
+      "links": [
+        "Contactez-nous",
+        "Aide & FAQ",
+        "Speak Up - Équipe Primark",
+        "Tell Us - Travailleurs Externes & Tiers"
+      ]
+    },
+    "info": {
+      "title": "INFORMATIONS UTILES",
+      "links": [
+        "Conditions Générales",
+        "Conditions de la Galerie Primania",
+        "Avis de Confidentialité",
+        "Politique des Cookies",
+        "Franchises Faux",
+        "Enquête Tell Primark",
+        "Déclaration d'Information Non-Financière 2021"
+      ]
+    },
+    "company": {
+      "title": "PRIMARK DE L'INTÉRIEUR",
+      "links": [
+        "Qui Nous Sommes",
+        "Travailler chez Primark",
+        "Fournisseurs",
+        "Cruelty Free International"
+      ]
+    },
+    "web": {
+      "title": "SITE WEB DE L'ENTREPRISE",
+      "links": [
+        "Notre Histoire",
+        "Éthique & Durabilité",
+        "L'Équipe Rédactionnelle"
+      ]
+    }
+  },
+  "countries": {
+    "title": "Régions",
+    "text": "Changer le pays ou la région depuis laquelle vous achetez peut affecter des facteurs tels que le prix, les options de livraison, les préférences linguistiques et la disponibilité des produits."
+  }
+}

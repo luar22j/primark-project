@@ -1,0 +1,47 @@
+.women-background {
+  background-image: url("../img/women/women.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 0;
+  padding-bottom: 35%;
+  position: relative;
+}
+
+.blue-link {
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+
+.blue-link::before {
+  content: "";
+  position: absolute;
+  top: 15px;
+  left: 7px;
+  bottom: 2px;
+  right: 0px;
+  background-color: #7fd6ec;
+  border-radius: 2px;
+  z-index: -1;
+  transition: all 300ms;
+}
+
+.blue-link:hover::before {
+  top: 5px;
+}
+
+.bg-jean {
+  background-image: url("../img/women/bg-jeans.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  min-height: 500px;
+  height: auto;
+  padding: 50px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  z-index: 0;
+}

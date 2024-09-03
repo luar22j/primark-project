@@ -1,0 +1,40 @@
+.apartados {
+  transition: transform 200ms;
+  opacity: 0;
+  --total-items: 8;
+  --animation-delay: calc(var(--item-index, 0) * 0.1s);
+  animation: opacity-animation 1s forwards;
+  animation-delay: var(--animation-delay);
+}
+
+.apartados:hover {
+  transform: scale(1.1, 1.1);
+}
+
+@keyframes opacity-animation {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.apartados:nth-child(1) {
+  --item-index: 0;
+}
+.apartados:nth-child(2) {
+  --item-index: 1;
+}
+.apartados:nth-child(3) {
+  --item-index: 2;
+}
+.apartados:nth-child(4) {
+  --item-index: 3;
+}
+.apartados:nth-child(5) {
+  --item-index: 4;
+}
+.apartados:nth-child(6) {
+  --item-index: 5;
+}

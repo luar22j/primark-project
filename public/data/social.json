@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Pinterest",
+    "img": "pinterest.png",
+    "url": "https://es.pinterest.com"
+  },
+  {
+    "name": "Facebook",
+    "img": "facebook.png",
+    "url": "https://www.facebook.com"
+  },
+  {
+    "name": "Instagram",
+    "img": "instagram.png",
+    "url": "https://www.instagram.co"
+  },
+  {
+    "name": "Youtube",
+    "img": "youtube.png",
+    "url": "https://www.youtube.com"
+  },
+  {
+    "name": "TikTok",
+    "img": "tiktok.png",
+    "url": "https://www.tiktok.com"
+  }
+]
