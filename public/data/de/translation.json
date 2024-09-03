@@ -123,37 +123,45 @@
     "gift-card": "Geschenkkarte"
   },
   "nav": {
-    "holiday": {
-      "name": "Ferien-Shop",
-      "url": "mobileHoliday.jpg"
-    },
     "women": {
       "name": "Damen",
-      "url": "womensLandingTile.jpg"
+      "link": "women.jpg",
+      "url": "women"
     },
     "kids": {
       "name": "Kinder",
-      "url": "kidsLandingTile02.jpg"
+      "link": "kids.jpg",
+      "url": "kids"
     },
     "baby": {
       "name": "Baby",
-      "url": "babyLanding.jpg"
+      "link": "baby.jpg",
+      "url": "baby"
+    },
+    "school": {
+      "name": "Zurück zur Schule",
+      "link": "school.jpg",
+      "url": "school"
     },
     "home": {
       "name": "Zuhause",
-      "url": "homeLandingTile.jpg"
+      "link": "home.jpg",
+      "url": "home"
     },
     "men": {
       "name": "Herren",
-      "url": "menLandingTile02.jpg"
+      "link": "men.jpg",
+      "url": "men"
     },
     "collaborations": {
       "name": "Kollaborationen",
-      "url": "mobile.jpg"
+      "link": "mobile.jpg",
+      "url": "collaborations"
     },
     "beauty": {
       "name": "Schönheit",
-      "url": "beautyLanding.jpg"
+      "link": "beauty.jpg",
+      "url": "beauty"
     }
   },
   "section": {
@@ -225,5 +233,200 @@
   "countries": {
     "title": "Regionen",
     "text": "Das Ändern des Landes oder der Region, aus der Sie einkaufen, kann Faktoren wie Preis, Lieferoptionen, Spracheinstellungen und Produktverfügbarkeit beeinflussen."
+  },
+  "women": {
+    "title": "Damenmode | Primark"
+  },
+  "women-nav": {
+    "clothes": {
+      "name": "Kleidung",
+      "url": "clothes"
+    },
+    "pajamas": {
+      "name": "Nachtwäsche und Dessous",
+      "url": "pajamas"
+    },
+    "footwear": {
+      "name": "Schuhe",
+      "url": "footwear"
+    },
+    "accessories": {
+      "name": "Accessoires",
+      "url": "accessories"
+    },
+    "collections": {
+      "name": "Kollektionen und Kooperationen",
+      "url": "collections"
+    }
+  },
+
+  "women-section": {
+    "title": "Damen",
+    "text": "Wir haben die Übergangsgarderobe, die Sie brauchen",
+    "discover": "Entdecken"
+  },
+
+  "women-img": {
+    "pajamas": { "name": "Nachtwäsche-Sortiment", "url": "pajamas.jpg" },
+    "sweetshirt": {
+      "name": "Sweatshirts mit und ohne Kapuze",
+      "url": "sweetshirt.jpg"
+    },
+    "bags": { "name": "Taschen und Geldbörsen", "url": "bags.jpg" },
+    "denim": { "name": "Jeansstoff", "url": "denim.jpg" },
+    "footwear": { "name": "Schuhe", "url": "footwear.jpg" },
+    "shortPants": { "name": "Kurze Hosen", "url": "shortPants.jpg" },
+    "shirts": { "name": "Tops und T-Shirts", "url": "shirts.jpg" },
+    "dress": { "name": "Kleider", "url": "dress.jpg" }
+  },
+  "women-section2": {
+    "currency": "€",
+    "color": "Farbe",
+    "phrase": "Ideal zum Trainieren UND für verschiedene Erledigungen",
+    "title": "Trendige Sportmode",
+    "button": "Entdecken Sie unsere Sportbekleidung",
+    "1": {
+      "name": "Sehr weiche Sport-Leggings",
+      "url": "1.jpg",
+      "price": "13,00",
+      "color": "1"
+    },
+    "2": {
+      "name": "Nahtloser Sport-BH",
+      "url": "2.jpg",
+      "price": "7,00",
+      "color": "2"
+    },
+    "3": {
+      "name": "Menstruations-Sportshorts",
+      "url": "3.jpg",
+      "price": "10,00",
+      "color": "1"
+    },
+    "4": {
+      "name": "Sport-Sweatshirt mit Rundhalsausschnitt",
+      "url": "4.jpg",
+      "price": "7,00",
+      "color": "2"
+    },
+    "5": {
+      "name": "Active Performance Sport-T-Shirt",
+      "url": "5.jpg",
+      "price": "6,00",
+      "color": "1"
+    },
+    "6": {
+      "name": "Lange nahtlose High-Performance-Leggings",
+      "url": "6.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "7": {
+      "name": "Sport-T-Shirt mit Rundhalsausschnitt",
+      "url": "7.jpg",
+      "price": "4,50",
+      "color": "1"
+    },
+    "8": {
+      "name": "Ausgestellte Yoga-Sport-Leggings",
+      "url": "8.jpg",
+      "price": "14,00",
+      "color": "2"
+    },
+    "9": {
+      "name": "Sehr weiches Sport-Tanktop",
+      "url": "9.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "10": {
+      "name": "Activate Sport-Leggings",
+      "url": "10.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "11": {
+      "name": "Sport-Sweatshirt mit Rundhalsausschnitt",
+      "url": "11.jpg",
+      "price": "7,00",
+      "color": "2"
+    },
+    "12": {
+      "name": "Nahtlose Sport-Jacke mit Reißverschluss",
+      "url": "12.jpg",
+      "price": "14,00",
+      "color": "1"
+    },
+    "13": {
+      "name": "Ausgestellte Yoga-Sport-Leggings",
+      "url": "13.jpg",
+      "price": "14,00",
+      "color": "2"
+    },
+    "14": {
+      "name": "Nahtloses Sport-Langarmshirt",
+      "url": "14.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "15": {
+      "name": "Formende Sport-Leggings mit hohem Bund",
+      "url": "15.jpg",
+      "price": "12,00",
+      "color": "1"
+    },
+    "16": {
+      "name": "Nahtlose Shorts mit hohem Bund",
+      "url": "16.jpg",
+      "price": "5,50",
+      "color": "1"
+    }
+  },
+  "jeans-collection": {
+    "title": "Erneuern Sie Ihre Jeanskollektion",
+    "phrase": "Jeans, die Sie zu unglaublichen Preisen lieben werden",
+    "link": "Entdecken Sie unsere Jeans"
+  },
+  "miss-nothing": {
+    "title": "Verpassen Sie nichts!",
+    "phrase": "Abonnieren Sie, um über die neuesten Trends, Produkteinführungen und die besten Kooperationen auf dem Laufenden zu bleiben",
+    "link": "Abonnieren"
+  },
+  "fashion-channel": {
+    "title": {
+      "title": "Modekanal",
+      "phrase": "Neueste Nachrichten",
+      "link": "Ich brauche Inspiration"
+    },
+    "links": {
+      "col1": {
+        "first": {
+          "title": "Raffinierte Basics",
+          "text": "Außergewöhnliche Referenzstücke",
+          "by": "von Tamára Tavares",
+          "img": "1.jpg"
+        },
+        "second": {
+          "title": "Schicker Campus-Stil",
+          "text": "Erneuern Sie Ihre Garderobe mit neuen Preppy-Designs",
+          "by": "von Tamára Tavares",
+          "img": "2.jpg"
+        }
+      },
+      "col2": {
+        "first": {
+          "title": "Trendstück: Der Strickpullover",
+          "text": "Unser meistverkauftes Strickstück, mit dem Sie Ihren eigenen Stil kreieren können",
+          "by": "von Kerry Martin",
+          "img": "3.jpg"
+        },
+        "second": {
+          "title": "Kappa X Primark",
+          "text": "Für einen sportlichen und alltäglichen Look",
+          "by": "von Sydney Lasek",
+          "img": "4.jpg"
+        }
+      }
+    }
   }
 }

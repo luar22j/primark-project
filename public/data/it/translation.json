@@ -123,37 +123,45 @@
     "gift-card": "Carta Regalo"
   },
   "nav": {
-    "holiday": {
-      "name": "Negozio per le Vacanze",
-      "url": "mobileHoliday.jpg"
-    },
     "women": {
       "name": "Donna",
-      "url": "womensLandingTile.jpg"
+      "link": "women.jpg",
+      "url": "women"
     },
     "kids": {
       "name": "Bambini",
-      "url": "kidsLandingTile02.jpg"
+      "link": "kids.jpg",
+      "url": "kids"
     },
     "baby": {
       "name": "Bebè",
-      "url": "babyLanding.jpg"
+      "link": "baby.jpg",
+      "url": "baby"
+    },
+    "school": {
+      "name": "Ritorno a Scuola",
+      "link": "school.jpg",
+      "url": "school"
     },
     "home": {
       "name": "Casa",
-      "url": "homeLandingTile.jpg"
+      "link": "home.jpg",
+      "url": "home"
     },
     "men": {
       "name": "Uomo",
-      "url": "menLandingTile02.jpg"
+      "link": "men.jpg",
+      "url": "men"
     },
     "collaborations": {
       "name": "Collaborazioni",
-      "url": "mobile.jpg"
+      "link": "mobile.jpg",
+      "url": "collaborations"
     },
     "beauty": {
       "name": "Bellezza",
-      "url": "beautyLanding.jpg"
+      "link": "beauty.jpg",
+      "url": "beauty"
     }
   },
   "section": {
@@ -205,7 +213,7 @@
         "Politica sui Cookie",
         "Franchising Falsi",
         "Sondaggio Tell Primark",
-        "Dichiarazione di Informazioni Non Finanziarie 2021"
+        "Dichiarazione di Informazione Non Finanziarie 2021"
       ]
     },
     "company": {
@@ -229,5 +237,201 @@
   "countries": {
     "title": "Regioni",
     "text": "Cambiare il paese o la regione da cui acquisti può influenzare fattori come il prezzo, le opzioni di consegna, le preferenze linguistiche e la disponibilità dei prodotti."
+  },
+
+  "women": {
+    "title": "Moda Donna | Primark"
+  },
+  "women-nav": {
+    "clothes": {
+      "name": "Abbigliamento",
+      "url": "clothes"
+    },
+    "pajamas": {
+      "name": "Pigiami e lingerie",
+      "url": "pajamas"
+    },
+    "footwear": {
+      "name": "Calzature",
+      "url": "footwear"
+    },
+    "accessories": {
+      "name": "Accessori",
+      "url": "accessories"
+    },
+    "collections": {
+      "name": "Collezioni e collaborazioni",
+      "url": "collections"
+    }
+  },
+
+  "women-section": {
+    "title": "Donna",
+    "text": "Abbiamo il guardaroba di mezza stagione di cui hai bisogno",
+    "discover": "Scopri"
+  },
+
+  "women-img": {
+    "pajamas": { "name": "Gamma pigiami", "url": "pajamas.jpg" },
+    "sweetshirt": {
+      "name": "Felpe con e senza cappuccio",
+      "url": "sweetshirt.jpg"
+    },
+    "bags": { "name": "Borse e portafogli", "url": "bags.jpg" },
+    "denim": { "name": "Denim", "url": "denim.jpg" },
+    "footwear": { "name": "Calzature", "url": "footwear.jpg" },
+    "shortPants": { "name": "Pantaloncini", "url": "shortPants.jpg" },
+    "shirts": { "name": "Top e t-shirt", "url": "shirts.jpg" },
+    "dress": { "name": "Vestiti", "url": "dress.jpg" }
+  },
+  "women-section2": {
+    "currency": "€",
+    "color": "colore",
+    "phrase": "Ideale per l'allenamento E per le commissioni varie",
+    "title": "Abbigliamento sportivo di tendenza",
+    "button": "Scopri i nostri capi sportivi",
+    "1": {
+      "name": "Leggings sportivi molto morbidi",
+      "url": "1.jpg",
+      "price": "13,00",
+      "color": "1"
+    },
+    "2": {
+      "name": "Reggiseno sportivo senza cuciture",
+      "url": "2.jpg",
+      "price": "7,00",
+      "color": "2"
+    },
+    "3": {
+      "name": "Menstruations-Sportshorts",
+      "url": "3.jpg",
+      "price": "10,00",
+      "color": "1"
+    },
+    "4": {
+      "name": "Sport-Sweatshirt mit Rundhalsausschnitt",
+      "url": "4.jpg",
+      "price": "7,00",
+      "color": "2"
+    },
+    "5": {
+      "name": "Active Performance Sport-T-Shirt",
+      "url": "5.jpg",
+      "price": "6,00",
+      "color": "1"
+    },
+    "6": {
+      "name": "Lange nahtlose High-Performance-Leggings",
+      "url": "6.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "7": {
+      "name": "Sport-T-Shirt mit Rundhalsausschnitt",
+      "url": "7.jpg",
+      "price": "4,50",
+      "color": "1"
+    },
+    "8": {
+      "name": "Ausgestellte Yoga-Sport-Leggings",
+      "url": "8.jpg",
+      "price": "14,00",
+      "color": "2"
+    },
+    "9": {
+      "name": "Sehr weiches Sport-Tanktop",
+      "url": "9.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "10": {
+      "name": "Activate Sport-Leggings",
+      "url": "10.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "11": {
+      "name": "Sport-Sweatshirt mit Rundhalsausschnitt",
+      "url": "11.jpg",
+      "price": "7,00",
+      "color": "2"
+    },
+    "12": {
+      "name": "Nahtlose Sport-Jacke mit Reißverschluss",
+      "url": "12.jpg",
+      "price": "14,00",
+      "color": "1"
+    },
+    "13": {
+      "name": "Ausgestellte Yoga-Sport-Leggings",
+      "url": "13.jpg",
+      "price": "14,00",
+      "color": "2"
+    },
+    "14": {
+      "name": "Nahtloses Sport-Langarmshirt",
+      "url": "14.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "15": {
+      "name": "Formende Sport-Leggings mit hohem Bund",
+      "url": "15.jpg",
+      "price": "12,00",
+      "color": "1"
+    },
+    "16": {
+      "name": "Nahtlose Shorts mit hohem Bund",
+      "url": "16.jpg",
+      "price": "5,50",
+      "color": "1"
+    }
+  },
+  "jeans-collection": {
+    "title": "Rinnova la tua collezione di jeans",
+    "phrase": "Jeans che amerai a prezzi incredibili",
+    "link": "Scopri i nostri jeans"
+  },
+  "miss-nothing": {
+    "title": "Non perderti nulla!",
+    "phrase": "Iscriviti per rimanere aggiornato sulle ultime tendenze, i lanci di prodotti e le migliori collaborazioni",
+    "link": "Iscriviti"
+  },
+  "fashion-channel": {
+    "title": {
+      "title": "Canale di moda",
+      "phrase": "Ultime novità",
+      "link": "Ho bisogno di ispirazione"
+    },
+    "links": {
+      "col1": {
+        "first": {
+          "title": "Basici sofisticati",
+          "text": "Capi di riferimento eccezionali",
+          "by": "di Tamara Tavares",
+          "img": "1.jpg"
+        },
+        "second": {
+          "title": "Stile chic per il campus",
+          "text": "Rinnova il tuo guardaroba con nuovi design in stile «preppy»",
+          "by": "di Tamara Tavares",
+          "img": "2.jpg"
+        }
+      },
+      "col2": {
+        "first": {
+          "title": "Capo must-have: il maglione in maglia",
+          "text": "Il nostro capo in maglia più venduto con cui creare il tuo stile personale",
+          "by": "di Kerry Martin",
+          "img": "3.jpg"
+        },
+        "second": {
+          "title": "Kappa X Primark",
+          "text": "Per uno stile sportivo e quotidiano",
+          "by": "di Sydney Lasek",
+          "img": "4.jpg"
+        }
+      }
+    }
   }
 }

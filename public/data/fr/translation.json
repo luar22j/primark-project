@@ -123,37 +123,45 @@
     "gift-card": "Carte Cadeau"
   },
   "nav": {
-    "holiday": {
-      "name": "Magasin de Vacances",
-      "url": "mobileHoliday.jpg"
-    },
     "women": {
       "name": "Femmes",
-      "url": "womensLandingTile.jpg"
+      "link": "women.jpg",
+      "url": "women"
     },
     "kids": {
       "name": "Enfants",
-      "url": "kidsLandingTile02.jpg"
+      "link": "kids.jpg",
+      "url": "kids"
     },
     "baby": {
       "name": "Bébé",
-      "url": "babyLanding.jpg"
+      "link": "baby.jpg",
+      "url": "baby"
+    },
+    "school": {
+      "name": "Rentrée des Classes",
+      "link": "school.jpg",
+      "url": "school"
     },
     "home": {
       "name": "Maison",
-      "url": "homeLandingTile.jpg"
+      "link": "home.jpg",
+      "url": "home"
     },
     "men": {
       "name": "Hommes",
-      "url": "menLandingTile02.jpg"
+      "link": "men.jpg",
+      "url": "men"
     },
     "collaborations": {
       "name": "Collaborations",
-      "url": "mobile.jpg"
+      "link": "mobile.jpg",
+      "url": "collaborations"
     },
     "beauty": {
       "name": "Beauté",
-      "url": "beautyLanding.jpg"
+      "link": "beauty.jpg",
+      "url": "beauty"
     }
   },
   "section": {
@@ -163,27 +171,33 @@
   "img": {
     "women": {
       "name": "Femmes",
-      "url": "womens.png"
+      "img": "women.jpg",
+      "url": "women"
     },
     "kids": {
       "name": "Enfants",
-      "url": "kids.png"
+      "img": "kids.jpg",
+      "url": "kids"
     },
     "baby": {
       "name": "Bébé",
-      "url": "baby.png"
+      "img": "baby.jpg",
+      "url": "baby"
     },
     "home": {
       "name": "Maison",
-      "url": "home.png"
+      "img": "home.jpg",
+      "url": "home"
     },
     "men": {
       "name": "Hommes",
-      "url": "men.png"
+      "img": "men.jpg",
+      "url": "men"
     },
     "beauty": {
       "name": "Beauté",
-      "url": "beauty.png"
+      "img": "beauty.jpg",
+      "url": "beauty"
     }
   },
   "footer": {
@@ -229,5 +243,200 @@
   "countries": {
     "title": "Régions",
     "text": "Changer le pays ou la région depuis laquelle vous achetez peut affecter des facteurs tels que le prix, les options de livraison, les préférences linguistiques et la disponibilité des produits."
+  },
+  "women": {
+    "title": "Mode Femme | Primark"
+  },
+  "women-nav": {
+    "clothes": {
+      "name": "Vêtements",
+      "url": "clothes"
+    },
+    "pajamas": {
+      "name": "Vêtements de nuit et lingerie",
+      "url": "pajamas"
+    },
+    "footwear": {
+      "name": "Chaussures",
+      "url": "footwear"
+    },
+    "accessories": {
+      "name": "Accessoires",
+      "url": "accessories"
+    },
+    "collections": {
+      "name": "Collections et collaborations",
+      "url": "collections"
+    }
+  },
+
+  "women-section": {
+    "title": "Femmes",
+    "text": "Nous avons la garde-robe de mi-saison dont vous avez besoin",
+    "discover": "Découvrir"
+  },
+
+  "women-img": {
+    "pajamas": { "name": "Gammes de vêtements de nuit", "url": "pajamas.jpg" },
+    "sweetshirt": {
+      "name": "Sweats à capuche et sweat-shirts",
+      "url": "sweetshirt.jpg"
+    },
+    "bags": { "name": "Sacs et portefeuilles", "url": "bags.jpg" },
+    "denim": { "name": "Denim", "url": "denim.jpg" },
+    "footwear": { "name": "Chaussures", "url": "footwear.jpg" },
+    "shortPants": { "name": "Shorts", "url": "shortPants.jpg" },
+    "shirts": { "name": "Tops et t-shirts", "url": "shirts.jpg" },
+    "dress": { "name": "Robes", "url": "dress.jpg" }
+  },
+  "women-section2": {
+    "currency": "€",
+    "color": "couleur",
+    "phrase": "Idéal pour faire de l'exercice ET pour les courses",
+    "title": "Vêtements de sport tendance",
+    "button": "Découvrez nos vêtements de sport",
+    "1": {
+      "name": "Leggings de sport très doux",
+      "url": "1.jpg",
+      "price": "13,00",
+      "color": "1"
+    },
+    "2": {
+      "name": "Soutien-gorge de sport sans coutures",
+      "url": "2.jpg",
+      "price": "7,00",
+      "color": "2"
+    },
+    "3": {
+      "name": "Short de sport menstruel",
+      "url": "3.jpg",
+      "price": "10,00",
+      "color": "1"
+    },
+    "4": {
+      "name": "Sweat-shirt de sport à col rond",
+      "url": "4.jpg",
+      "price": "7,00",
+      "color": "2"
+    },
+    "5": {
+      "name": "T-shirt de sport Active Performance",
+      "url": "5.jpg",
+      "price": "6,00",
+      "color": "1"
+    },
+    "6": {
+      "name": "Leggings longs haute performance sans coutures",
+      "url": "6.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "7": {
+      "name": "T-shirt de sport à col rond",
+      "url": "7.jpg",
+      "price": "4,50",
+      "color": "1"
+    },
+    "8": {
+      "name": "Leggings de yoga évasés",
+      "url": "8.jpg",
+      "price": "14,00",
+      "color": "2"
+    },
+    "9": {
+      "name": "Débardeur de sport court très doux",
+      "url": "9.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "10": {
+      "name": "Leggings de sport Activate",
+      "url": "10.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "11": {
+      "name": "Sweat-shirt de sport à col rond",
+      "url": "11.jpg",
+      "price": "7,00",
+      "color": "2"
+    },
+    "12": {
+      "name": "Veste de sport zippée sans coutures",
+      "url": "12.jpg",
+      "price": "14,00",
+      "color": "1"
+    },
+    "13": {
+      "name": "Leggings de yoga évasés",
+      "url": "13.jpg",
+      "price": "14,00",
+      "color": "2"
+    },
+    "14": {
+      "name": "T-shirt de sport à manches longues sans coutures",
+      "url": "14.jpg",
+      "price": "9,00",
+      "color": "1"
+    },
+    "15": {
+      "name": "Leggings de sport sculptants taille haute",
+      "url": "15.jpg",
+      "price": "12,00",
+      "color": "1"
+    },
+    "16": {
+      "name": "Short taille haute sans coutures",
+      "url": "16.jpg",
+      "price": "5,50",
+      "color": "1"
+    }
+  },
+  "jeans-collection": {
+    "title": "Renouvelez votre collection de jeans",
+    "phrase": "Des jeans que vous allez adorer à des prix incroyables",
+    "link": "Découvrez nos jeans"
+  },
+  "miss-nothing": {
+    "title": "Ne manquez rien !",
+    "phrase": "Abonnez-vous pour rester au courant des dernières tendances, des lancements de produits et des meilleures collaborations",
+    "link": "S'abonner"
+  },
+  "fashion-channel": {
+    "title": {
+      "title": "Canal de mode",
+      "phrase": "Dernières nouveautés",
+      "link": "J'ai besoin d'inspiration"
+    },
+    "links": {
+      "col1": {
+        "first": {
+          "title": "Basiques sophistiqués",
+          "text": "Pièces de référence exceptionnelles",
+          "by": "par Tamara Tavares",
+          "img": "1.jpg"
+        },
+        "second": {
+          "title": "Style chic pour le campus",
+          "text": "Renouvelez votre garde-robe avec de nouveaux designs de style « preppy »",
+          "by": "par Tamara Tavares",
+          "img": "2.jpg"
+        }
+      },
+      "col2": {
+        "first": {
+          "title": "Pièce phare : le pull en maille",
+          "text": "Notre pièce en maille la plus vendue pour créer votre propre style",
+          "by": "par Kerry Martin",
+          "img": "3.jpg"
+        },
+        "second": {
+          "title": "Kappa X Primark",
+          "text": "Pour un style sportif et quotidien",
+          "by": "par Sydney Lasek",
+          "img": "4.jpg"
+        }
+      }
+    }
   }
 }

@@ -123,37 +123,45 @@
     "gift-card": "Gift Card"
   },
   "nav": {
-    "holiday": {
-      "name": "Holiday Store",
-      "url": "mobileHoliday.jpg"
-    },
     "women": {
       "name": "Women",
-      "url": "womensLandingTile.jpg"
+      "link": "women.jpg",
+      "url": "women"
     },
     "kids": {
       "name": "Kids",
-      "url": "kidsLandingTile02.jpg"
+      "link": "kids.jpg",
+      "url": "kids"
     },
     "baby": {
       "name": "Baby",
-      "url": "babyLanding.jpg"
+      "link": "baby.jpg",
+      "url": "baby"
+    },
+    "school": {
+      "name": "Back to School",
+      "link": "school.jpg",
+      "url": "school"
     },
     "home": {
       "name": "Home",
-      "url": "homeLandingTile.jpg"
+      "link": "home.jpg",
+      "url": "home"
     },
     "men": {
       "name": "Men",
-      "url": "menLandingTile02.jpg"
+      "link": "men.jpg",
+      "url": "men"
     },
     "collaborations": {
       "name": "Collaborations",
-      "url": "mobile.jpg"
+      "link": "mobile.jpg",
+      "url": "collaborations"
     },
     "beauty": {
       "name": "Beauty",
-      "url": "beautyLanding.jpg"
+      "link": "beauty.jpg",
+      "url": "beauty"
     }
   },
   "section": {
@@ -225,5 +233,201 @@
   "countries": {
     "title": "Regions",
     "text": "Changing the country or region you shop from may affect factors such as pricing, delivery options, language preferences, and product availability."
+  },
+
+  "women": {
+    "title": "Women's Fashion | Primark"
+  },
+  "women-nav": {
+    "clothes": {
+      "name": "Clothing",
+      "url": "clothes"
+    },
+    "pajamas": {
+      "name": "Sleepwear and Lingerie",
+      "url": "pajamas"
+    },
+    "footwear": {
+      "name": "Footwear",
+      "url": "footwear"
+    },
+    "accessories": {
+      "name": "Accessories",
+      "url": "accessories"
+    },
+    "collections": {
+      "name": "Collections and Collaborations",
+      "url": "collections"
+    }
+  },
+
+  "women-section": {
+    "title": "Women",
+    "text": "We have the transitional wardrobe you need",
+    "discover": "Discover"
+  },
+
+  "women-img": {
+    "pajamas": { "name": "Nightwear ranges", "url": "pajamas.jpg" },
+    "sweetshirt": {
+      "name": "Hoodies and sweatshirts",
+      "url": "sweetshirt.jpg"
+    },
+    "bags": { "name": "Bags and purses", "url": "bags.jpg" },
+    "denim": { "name": "Denim", "url": "denim.jpg" },
+    "footwear": { "name": "Footwear", "url": "footwear.jpg" },
+    "shortPants": { "name": "Shorts", "url": "shortPants.jpg" },
+    "shirts": { "name": "Tops and t-shirts", "url": "shirts.jpg" },
+    "dress": { "name": "Dresses", "url": "dress.jpg" }
+  },
+  "women-section2": {
+    "currency": "£",
+    "color": "color",
+    "phrase": "Perfect for exercising AND running errands",
+    "title": "Trendy sportswear",
+    "button": "Discover our sportswear",
+    "1": {
+      "name": "Super soft sports leggings",
+      "url": "1.jpg",
+      "price": "13.00",
+      "color": "1"
+    },
+    "2": {
+      "name": "Seamless sports bra",
+      "url": "2.jpg",
+      "price": "7.00",
+      "color": "2"
+    },
+    "3": {
+      "name": "Period sports shorts",
+      "url": "3.jpg",
+      "price": "10.00",
+      "color": "1"
+    },
+    "4": {
+      "name": "Crew neck sports sweatshirt",
+      "url": "4.jpg",
+      "price": "7.00",
+      "color": "2"
+    },
+    "5": {
+      "name": "Active Performance sports t-shirt",
+      "url": "5.jpg",
+      "price": "6.00",
+      "color": "1"
+    },
+    "6": {
+      "name": "High performance seamless long leggings",
+      "url": "6.jpg",
+      "price": "9.00",
+      "color": "1"
+    },
+    "7": {
+      "name": "Crew neck sports t-shirt",
+      "url": "7.jpg",
+      "price": "4.50",
+      "color": "1"
+    },
+    "8": {
+      "name": "Flared yoga sports leggings",
+      "url": "8.jpg",
+      "price": "14.00",
+      "color": "2"
+    },
+    "9": {
+      "name": "Super soft cropped sports tank top",
+      "url": "9.jpg",
+      "price": "9.00",
+      "color": "1"
+    },
+    "10": {
+      "name": "Activate sports leggings",
+      "url": "10.jpg",
+      "price": "9.00",
+      "color": "1"
+    },
+    "11": {
+      "name": "Crew neck sports sweatshirt",
+      "url": "11.jpg",
+      "price": "7.00",
+      "color": "2"
+    },
+    "12": {
+      "name": "Seamless zip-up sports jacket",
+      "url": "12.jpg",
+      "price": "14.00",
+      "color": "1"
+    },
+    "13": {
+      "name": "Flared yoga sports leggings",
+      "url": "13.jpg",
+      "price": "14.00",
+      "color": "2"
+    },
+    "14": {
+      "name": "Seamless long sleeve sports t-shirt",
+      "url": "14.jpg",
+      "price": "9.00",
+      "color": "1"
+    },
+    "15": {
+      "name": "High-waisted shaping sports leggings",
+      "url": "15.jpg",
+      "price": "12.00",
+      "color": "1"
+    },
+    "16": {
+      "name": "High-waisted seamless shorts",
+      "url": "16.jpg",
+      "price": "5.50",
+      "color": "1"
+    }
+  },
+  "jeans-collection": {
+    "title": "Renew your jeans collection",
+    "phrase": "Jeans you'll love at incredible prices",
+    "link": "Discover our jeans"
+  },
+  "miss-nothing": {
+    "title": "Don't miss a thing!",
+    "phrase": "Subscribe to stay up to date with the latest trends, product launches and best collaborations",
+    "link": "Subscribe"
+  },
+  "fashion-channel": {
+    "title": {
+      "title": "Fashion Channel",
+      "phrase": "Latest news",
+      "link": "I need inspiration"
+    },
+    "links": {
+      "col1": {
+        "first": {
+          "title": "Sophisticated basics",
+          "text": "Exceptional reference pieces",
+          "by": "by Tamara Tavares",
+          "img": "1.jpg"
+        },
+        "second": {
+          "title": "Chic style for campus",
+          "text": "Renew your wardrobe with new preppy style designs",
+          "by": "by Tamara Tavares",
+          "img": "2.jpg"
+        }
+      },
+      "col2": {
+        "first": {
+          "title": "Star item: the knit sweater",
+          "text": "Our best-selling knitwear to create your own style",
+          "by": "by Kerry Martin",
+          "img": "3.jpg"
+        },
+        "second": {
+          "title": "Kappa X Primark",
+          "text": "For a sporty and everyday style",
+          "by": "by Sydney Lasek",
+          "img": "4.jpg"
+        }
+      }
+    }
   }
 }
