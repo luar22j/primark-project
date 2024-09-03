@@ -171,27 +171,33 @@
   "img": {
     "women": {
       "name": "Women",
-      "url": "womens.png"
+      "img": "women.jpg",
+      "url": "women"
     },
     "kids": {
       "name": "Kids",
-      "url": "kids.png"
+      "img": "kids.jpg",
+      "url": "kids"
     },
     "baby": {
       "name": "Baby",
-      "url": "baby.png"
+      "img": "baby.jpg",
+      "url": "baby"
     },
     "home": {
       "name": "Home",
-      "url": "home.png"
+      "img": "home.jpg",
+      "url": "home"
     },
     "men": {
       "name": "Men",
-      "url": "men.png"
+      "img": "men.jpg",
+      "url": "men"
     },
     "beauty": {
       "name": "Beauty",
-      "url": "beauty.png"
+      "img": "beauty.jpg",
+      "url": "beauty"
     }
   },
   "footer": {

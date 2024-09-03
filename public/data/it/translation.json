@@ -171,27 +171,33 @@
   "img": {
     "women": {
       "name": "Donna",
-      "url": "womens.png"
+      "img": "women.jpg",
+      "url": "women"
     },
     "kids": {
       "name": "Bambini",
-      "url": "kids.png"
+      "img": "kids.jpg",
+      "url": "kids"
     },
     "baby": {
       "name": "Bebè",
-      "url": "baby.png"
+      "img": "baby.jpg",
+      "url": "baby"
     },
     "home": {
       "name": "Casa",
-      "url": "home.png"
+      "img": "home.jpg",
+      "url": "home"
     },
     "men": {
       "name": "Uomo",
-      "url": "men.png"
+      "img": "men.jpg",
+      "url": "men"
     },
     "beauty": {
       "name": "Bellezza",
-      "url": "beauty.png"
+      "img": "beauty.jpg",
+      "url": "beauty"
     }
   },
   "footer": {
